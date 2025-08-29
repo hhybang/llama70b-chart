@@ -1,4 +1,4 @@
-# llama70b-circuits-chartdata  
+# llama70b-chartdata  
 
 This repository contains experiments exploring how **LLaMA 3.3 70B Instruct** processes **chart-structured data**. The goal is to analyze model internals (attention heads, residual streams, and circuits) to better understand how the model detects patterns such as maxima in tables and chart features.  
 
